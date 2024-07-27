@@ -4,7 +4,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
-    "build": "npm run build:button"
+    "build:button": "npm run build:button"
   },
   "exports": {
     ".": {
