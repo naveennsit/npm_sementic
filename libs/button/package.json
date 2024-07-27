@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "main": "./index.js",
   "types": "./index.d.ts",
+  "scripts": {
+    "build": "npm run build:button"
+  },
   "exports": {
     ".": {
       "import": "./index.mjs",
